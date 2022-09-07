@@ -1,0 +1,131 @@
+body {
+  background-color:#16213E;
+}
+
+#section-1 {
+  /* background-color: #7A86B6; */
+  margin-top: 50px;
+}
+
+.mynav{
+  font-family: 'Ubuntu', sans-serif;
+}
+.container-fluid {
+  margin-bottom: 10px;
+}
+
+/* Left side containing songpic and audio */
+
+.leftblock {
+  text-align: center;
+  /* border: 2px solid black; */
+}
+
+.songpic {
+  margin-top: 50px;
+  width: 80%;
+  height: 479px;
+  padding: 5%;
+  background-color: transparent;
+  object-fit: contain;
+}
+
+audio {
+  width: 98%;
+  height: 70px;
+  margin-bottom: 25px;
+  padding: 1%;
+  margin-top: 20px;
+  background-color: transparent;
+}*
+
+/* Right Side containing song names */
+.songlist {
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 1.5% 1.5% 2.5% 5%;
+  background-color: transparent;
+  text-align: center;
+  height: 520px;
+  overflow-y: scroll;
+}
+
+.list-group-item {
+  background-color: transparent;
+  color: white;
+}
+
+/* Footer */
+
+/* #footer {
+  background-color: black;
+  padding: 30px;
+} */
+h1 {
+  font-size: 1rem;
+}
+hr.line {
+  height: 12px;
+  border: 0;
+  box-shadow: inset 0 12px 12px -6px rgba(255, 255, 255, 0.5);
+}
+hr.line2 {
+  border: 0;
+  height: 3px;
+  background-image: linear-gradient(to right, rgb(4, 4, 4), rgb(255, 255, 255), rgb(0, 0, 0));
+}
+
+/* Design For ScrollBar */
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(180, 179, 179);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+
+/* for PlayList Text Above Ul */
+.PlaylistText{
+  font-family: 'Pacifico', cursive;
+  color: white;
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 5px;
+}
+
+/*For Image inside List in front of song */
+.imgdiv > img {
+  height: 60px;
+}
+.listSong {
+  border-bottom: 2px solid white;
+}
+/* Name of Song*/
+.namediv {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  font-size: 1.3rem;
+  text-overflow: ellipsis;
+  font-family: 'Ubuntu Mono', monospace;
+  white-space: nowrap;
+  overflow:hidden;
+}
+a.song {
+  text-decoration: none;
+}
+@media only screen  and (min-width : 1266px){
+
+}

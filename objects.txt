@@ -1,0 +1,138 @@
+ [
+    {
+        "Song Name" : "Tere Naal -- By Darshan Raval",
+        "Url" : "Files\\Tere Naal - Darshan Raval.mp3",
+        "img" : "Files\\Tere Naal.jpg"
+     },
+    {
+        "Song Name" : "Teri Aankhon Mai -- By Darshan Raval",
+        "Url" : "Files\\Teri Aankhon Mein - Darshan Raval.mp3",
+        "img" : "Files\\teri aankhon mai.jpg"
+     }
+     ,
+    {
+        "Song Name" : "Chaand Baaliyan -- By Aditya A",
+        "Url" : "Files\\Chaand Baaliyan - Aditya A.mp3",
+        "img" : "Files\\Chand Balliyan.jpg"
+     }
+     ,
+    {
+        "Song Name" : "Rait Zara Si -- By AR Rahman",
+        "Url" : "Files\\Rait Zara Si(PagalWorld.com.se).mp3",
+        "img" : "Files\\rait zara si.jpg"
+     }
+     ,
+    {
+        "Song Name" : "Zara - Zara -- By Bombay Jayashri",
+        "Url" : "Files\\Zara-Zara-Bahekta-Hai(PagalWorld).mp3",
+        "img" : "Files\\zara zara.jpg"
+     }
+     ,
+    {
+        "Song Name" : "Zindagi-Ne-Zindagi-Bhar-Gham-Diye-X-Kabira",
+        "Url" : "Files\\Zindagi-Ne-Zindagi-Bhar-Gham-Diye-X-Kabira.mp3",
+        "img" : "Files\\zindagi-ne-zindagi bhar.jpg"
+     }
+     ,
+    {
+        "Song Name" : "Asal Mein -- Darshan Raval",
+        "Url" : "Files\\Asal Mein - Darshan Raval.mp3",
+        "img" : "Files\\asal mai.jpg"
+     }
+     ,
+    {
+        "Song Name" : "Tera Zikr -- Darshan Raval",
+        "Url" : "Files\\Tera Zikr - Darshan Raval 320Kbps.mp3",
+        "img" : "Files\\tera zikr.jpg"
+     }
+     ,
+    {
+        "Song Name" : "Kaun Tujhe (MS Dhoni) -- By Palak",
+        "Url" : "Files\\02 Kaun Tujhe (MS Dhoni) Palak 320Kbps.mp3",
+        "img" : "Files\\kaun tujhe.jpg"
+     }
+     ,
+    {
+        "Song Name" : "Mann Bharryaa 2 - Shershaah",
+        "Url" : "Files\\Mann Bharryaa 2 - Shershaah.mp3",
+        "img" : "Files\\mann bharrya.jpg"
+     }
+     ,
+    {
+        "Song Name" : "Raataan Lambiyan - Shershaah",
+        "Url" : "Files\\Raataan Lambiyan - Shershaah.mp3",
+        "img" : "Files\\raataan lambiyan.jpg"
+     }
+     ,
+    {
+        "Song Name" : "Besabriyaan (MS Dhoni) -- By Armaan Malik",
+        "Url" : "Files\\01 Besabriyaan (MS Dhoni) Armaan Malik 320Kbps.mp3",
+        "img" : "Files\\Besabriyaan.jpg"
+     }
+     ,
+    {
+        "Song Name" : "Mere Sohneya - Kabir Singh",
+        "Url" : "Files\\Mere Sohneya - Kabir Singh.mp3",
+        "img" : "Files\\mere sohneya.jpg"
+     }
+     ,
+    {
+        "Song Name" : "Zaalima - Raees",
+        "Url" : "Files\\Raees 2017 - Zaalima.mp3",
+        "img" : "Files\\zaalima.jpg"
+     }
+     ,
+    {
+        "Song Name" : "Ae Dil Hai Mushkil Title Track -- By Arijit Singh",
+        "Url" : "Files\\05 Ae Dil Hai Mushkil Title Track - Arijit Singh 190Kbps.mp3",
+        "img" : "Files\\Ae dil hai mushkil.jpg"
+   }
+    ,
+    {
+        "Song Name" : "Ranjha - Shershaah",
+        "Url" : "Files\\Ranjha - Shershaah.mp3",
+        "img" : "Files\\Ranjha.jpg"
+   }
+   ,
+   {
+        "Song Name" : "Tose Naina -- By Arijit Singh",
+        "Url" : "Files\\tose Naina.mp3",
+        "img" : "Files\\tosenaina.png"
+     }
+     ,
+    {
+        "Song Name" : "Tum jo Aay Zindagi Mai -- By Rahat Fateh Ali Khan",
+        "Url" : "Files\\tum Jo Aaye.mp3",
+        "img" : "Files\\tum jo aay.jpg"
+     }
+     ,
+    {
+        "Song Name" : "Chand Sifarish",
+        "Url" : "Files\\02. Chand Sifarish.mp3",
+        "img" : "Files\\Chand Sifarish.jpg"
+     }
+     ,
+    {
+        "Song Name" : "Kabira -- By Arijit Singh",
+        "Url" : "Files\\Kabira - Arijit Singh - 320Kbps.mp3",
+        "img" : "Files\\Kabira.jpg"
+     }
+     ,
+    {
+        "Song Name" : "Teri-Mitti",
+        "Url" : "Files\\Teri-Mitti(PagalWorld).mp3",
+        "img" : "Files\\Teri Mithi.jpg"
+     }
+     ,
+    {
+        "Song Name" : "Namo Namo - Kedarnath",
+        "Url" : "Files\\01 - Namo Namo - SenSongsMp3.Co.mp3 ",
+        "img" : "Files\\Namo Namo.jpg"
+     }
+     ,
+    {
+        "Song Name" : "Tere Sang Yara - Rustom - Dj",
+        "Url" : "Files\\Tere Sang Yara - Rustom - Dj Rohit n Teju Club Mix.mp3 ",
+        "img" : "Files\\Tere Sang Yaara.jpg"
+     }
+]
